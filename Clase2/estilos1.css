@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.lista-menu {
+    list-style: none;
+    width: 400px;
+    display: flex;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    flex-grow: 0;
+}
+
+.listado {
+    height: 1.2em;
+    width: 600px;
+}
