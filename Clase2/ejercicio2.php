@@ -1,51 +1,24 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="}">
+	<meta name="viewport"
+	      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible"
+	      content="ie=edge">
+	<title>Document</title>
+</head>
+<body>
 <?php
-
-interface Menu_Interface
-{
-	public function insertar();
-
-	public function registrar();
-
-	public function modificar();
-
-	public function eliminar();
-
-	public function obtener();
-}
-
-class Menu implements Menu_Interface
-{
-
-	public function insertar()
-	{
-		print "<li class='lista-menu'><a class='lista-menu-link' href='#'>Insertar</a></li>";
-	}
-
-	public function registrar()
-	{
-		print "<li class='lista-menu'><a class='lista-menu-link' href='#'>Registrar</a></li>";
-	}
-
-	public function modificar()
-	{
-		print "<li class='lista-menu'><a class='lista-menu-link' href='#'>Modificar</a></li>";
-	}
-
-	public function eliminar()
-	{
-		print "<li class='lista-menu'><a class='lista-menu-link' href='#'>Eliminar</a></li>";
-	}
-
-	public function obtener()
-	{
-		print "<li class='lista-menu'><a class='lista-menu-link' href='#'>Obtener</a></li>";
-	}
-}
-
+include 'menu.php';
 $menu = new Menu();
 
-print "<ul class='Menu'>
-{$menu->registrar()}{$menu->insertar()}{$menu->obtener()}{$menu->modificar()}{$menu->eliminar()}
-</ul>";
-
+print "<ul class='menu'>
+{$menu->registrar()}
+{$menu->insertar()}
+{$menu->obtener()}
+{$menu->modificar()}
+{$menu->eliminar()}</ul>";
 ?>
+</body>
+</html>
