@@ -21,11 +21,13 @@ class Factura
 
 	public function imprimir()
 	{
-		print "<p>Importe Base es: {$this->importe_base}</p>";
-		print "<p>Los impuestos son: {$this->impuestos}</p>";
-		print "<p>El importe Bruto es: {$this->importe_bruto}</p>";
-		print "<p>La fecha es: {$this->fecha}</p>";
-		print "<p>El estado es: {$this->estado}</p>";
+		print "<div class='contenedor'>";
+		print "<p class='contenedor-item'>Importe Base es: {$this->importe_base}</p>";
+		print "<p class='contenedor-item'>Los impuestos son: {$this->impuestos}</p>";
+		print "<p class='contenedor-item'>El importe Bruto es: {$this->importe_bruto}</p>";
+		print "<p class='contenedor-item'>La fecha es: {$this->fecha}</p>";
+		print "<p class='contenedor-item'>El estado es: {$this->estado}</p>";
+		print "</div>";
 	}
 }
 
