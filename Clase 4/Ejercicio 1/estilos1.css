@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.Titulo1 {
+    font-size: 30px;
+    text-align: center;
+    color: hsl(0, 30%, 25%);
+}
+
+.num-ale {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.titu-ale {
+    flex-basis: 100%;
+    color: hsl(0, 30%, 25%);
+}
+
+.lista {
+    display: flex;
+    padding-left: 0;
+    flex-basis: 100%;
+    list-style: none;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.lista-menu {
+    flex-basis: 20%;
+    display: flex;
+    justify-content: center;
+    background-color: hsl(40, 80%, 60%);
+}
+
+.lista-menu:nth-child(2n) {
+    background-color: hsl(170, 80%, 60%);
+}
+
+.caja2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.titu-caja {
+    flex-basis: 100%;
+    color: hsl(0, 30%, 25%);
+    padding: 0;
+}
+
+.parrafo {
+    padding: 0;
+    text-align: center;
+}
