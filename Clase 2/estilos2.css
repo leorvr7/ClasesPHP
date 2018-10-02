@@ -17,7 +17,7 @@
     list-style: none;
     width: 20%;
     height: 30px;
-    border: 2px solid hsl(190, 80%, 0%);
+    border: 2px solid hsl(0, 80%, 0%);
     display: flex;
     justify-content: center;
     align-items: center;

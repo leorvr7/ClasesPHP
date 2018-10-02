@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f279a853-403f-486d-858b-a046f6e66ee8" name="Default" comment="wq">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/.idea/Clase2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/ClasesdeClases.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/Ejercicio1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/Ejercicio3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/Factura.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/clase2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/clase_anonima.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/constructor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/ejercicio2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/estilos1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/estilos2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/herencia.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/menu.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Clases" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Clase3/comidaexcepcion.php" />
+        <option value="$PROJECT_DIR$/Clase3/Excepciones.php" />
+        <option value="$PROJECT_DIR$/Clase3/traits.php" />
+        <option value="$PROJECT_DIR$/Clase3/tocabletrait.php" />
+        <option value="$PROJECT_DIR$/Clase3/Animal.php" />
+        <option value="$PROJECT_DIR$/Clase3/gato.php" />
+        <option value="$PROJECT_DIR$/Clase3/funciones.php" />
+        <option value="$PROJECT_DIR$/Clase3/css.css" />
+        <option value="$PROJECT_DIR$/Clase3/principal.php" />
+        <option value="$PROJECT_DIR$/Clase3/NameSpace/index.php" />
+        <option value="$PROJECT_DIR$/Clase3/NameSpace/Universidad/estudiante.php" />
+        <option value="$PROJECT_DIR$/Clase3/NameSpace/cecomp/estudiante.php" />
+        <option value="$PROJECT_DIR$/Clase2/estilos2.css" />
+        <option value="$PROJECT_DIR$/Clase2/Factura.php" />
+        <option value="$PROJECT_DIR$/Clase2/Ejercicio3.php" />
+        <option value="$PROJECT_DIR$/Clase2/estilos3.css" />
+        <option value="$PROJECT_DIR$/Clase 4/Ejercicio1.php" />
+        <option value="$PROJECT_DIR$/Clase 4/Clase 1/numeros.php" />
+        <option value="$PROJECT_DIR$/Clase 4/Clase 1/index.php" />
+        <option value="$PROJECT_DIR$/Clase 4/Clase 1/estilos1.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Clase 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Clase 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Clase 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Clase2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/Clase2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.Clase2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f279a853-403f-486d-858b-a046f6e66ee8" name="Default" comment="" />
+      <created>1537733934918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537733934918</updated>
+      <workItem from="1537733936905" duration="745000" />
+      <workItem from="1537734840097" duration="7930000" />
+      <workItem from="1537743120842" duration="1737000" />
+      <workItem from="1537807340674" duration="645000" />
+      <workItem from="1537808043563" duration="661000" />
+      <workItem from="1537808868762" duration="226000" />
+      <workItem from="1537823743723" duration="870000" />
+      <workItem from="1538067278373" duration="635000" />
+      <workItem from="1538455480816" duration="1746000" />
+      <workItem from="1538488608671" duration="1768000" />
+      <workItem from="1538490652987" duration="9931000" />
+      <workItem from="1538501894613" duration="437000" />
+    </task>
+    <task id="LOCAL-00001" summary="wq">
+      <created>1538455525288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538455525288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27331000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4975728" visible="true" weight="0.15577078" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.50242716" side_tool="true" weight="0.15577078" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3267974" />
+      <window_info id="Favorites" order="2" sideWeight="0.50242716" side_tool="true" weight="0.15577078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wq" />
+    <option name="LAST_COMMIT_MESSAGE" value="wq" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/cecomp/estudiante.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/index.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/Ejercicio3.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/Universidad/estudiante.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/Factura.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/cecomp/estudiante.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/index.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/Ejercicio3.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/Universidad/estudiante.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/Factura.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/cecomp/estudiante.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/Universidad/estudiante.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/index.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/cecomp/estudiante.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/Universidad/estudiante.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/index.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/principal.php" />
+    <entry file="file://D:/Cursos/Programacion Web/PHP/Ed-Team/6 - Excepciones y Traits/clase6/01-throwling.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/Ejercicio1.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/ejercicio2.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/Factura.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/Ejercicio3.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/Ejercicio1.php" />
+    <entry file="file://D:/Cursos/Programacion Web/PHP/Ed-Team/6 - Excepciones y Traits/clase6/02-try-catch.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/tocabletrait.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/gato.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/Animal.php" />
+    <entry file="file://D:/Cursos/Programacion Web/PHP/Ed-Team/6 - Excepciones y Traits/clase6/03-traits.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/comidaexcepcion.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/funciones.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/Excepciones.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/css.css" />
+    <entry file="file://D:/Cursos/Programacion Web/PHP/Ed-Team/6 - Excepciones y Traits/clase6/00-scalar-type-declarations.php" />
+    <entry file="file://D:/Cursos/Programacion Web/PHP/Ed-Team/6 - Excepciones y Traits/clase6/01-throwling.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/principal.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/cecomp/estudiante.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/Universidad/estudiante.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/estilos2.css" />
+    <entry file="file://$PROJECT_DIR$/Clase2/ejercicio2.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/menu.php" />
+    <entry file="file://$PROJECT_DIR$/Clase3/NameSpace/index.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/estilos3.css" />
+    <entry file="file://$PROJECT_DIR$/Clase2/Factura.php" />
+    <entry file="file://$PROJECT_DIR$/Clase2/Ejercicio3.php" />
+    <entry file="file://D:/Cursos/Programacion Web/PHP/Ed-Team/8 - Conectar Mysql Con PHP/clase8/03-pdo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clase 4/Ejercicio1.php" />
+    <entry file="file://$PROJECT_DIR$/Clase 4/Clase 1/estilos1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clase 4/Clase 1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clase 4/Clase 1/numeros.php" />
+    <entry file="file://$PROJECT_DIR$/Clase 4/Ejercicio 1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
