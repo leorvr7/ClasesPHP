@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.Titulo2 {
+    font-size: 30px;
+    text-align: center;
+    color: hsl(0, 30%, 25%);
+}
+
+.boleta {
+    width: 60%;
+    margin: auto;
+    border: 2px solid hsl(240, 80%, 50%);
+    overflow: hidden;
+}
+
+.Navegador {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.parte {
+    padding: 10px;
+}
+
+.parte:nth-child(2n) {
+    text-align: right;
+}
+
+.img-logo {
+    width: 80px;
+}
+
+.bol-fec {
+    text-align: center;
+}
+
+.cuerpo-bol {
+
+}
+
+.cabeza-boleta {
+    display: flex;
+}
+
+.div-cab {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.div-cab:nth-child(2) {
+    flex-grow: 3;
+}
