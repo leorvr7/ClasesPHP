@@ -1,0 +1,272 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.Titulo2 {
+    font-size: 30px;
+    text-align: center;
+    color: hsl(0, 30%, 25%);
+}
+
+.boleta {
+    width: 75%;
+    margin: auto;
+    padding: 5px;
+}
+
+.Navegador {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.parte {
+    padding: 5px;
+}
+
+.parte:nth-child(2n) {
+    text-align: right;
+}
+
+.img-logo {
+    width: 80px;
+}
+
+.bol-fec {
+    text-align: center;
+}
+
+.cuerpo-bol {
+
+}
+
+.cabeza-boleta,
+.linea-2,
+.linea-3,
+.linea-4,
+.linea-5 {
+    display: flex;
+}
+
+.div-cab {
+    flex-grow: 1;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.div-cab:nth-child(2) {
+    flex-grow: 3;
+}
+
+.div-lin2 {
+    flex-grow: 2;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.div-lin2:nth-child(3) {
+    flex-grow: 3;
+}
+
+.div-lin3 {
+    flex-grow: 2;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.div-lin4 {
+    flex-grow: 2;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.div-lin4:nth-child(1) {
+    flex-grow: 7;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.titulo_se {
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.div-lin5 {
+    flex-grow: 5;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.div-lin5:nth-child(1) {
+    flex-grow: 16;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.cuerpo-boleta {
+    width: 75%;
+    margin: auto;
+    padding: 5px 5px 0;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(9, 1fr);
+}
+
+.footer {
+    width: 75%;
+    margin: auto;
+    padding: 0 5px;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+}
+
+.rufian1 {
+    border-left: 2px solid black;
+    border-right: 1px solid black;
+    text-align: center;
+}
+
+.rufian2 {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    text-align: left;
+    padding-left: 5px;
+    grid-column-start: 2;
+    grid-column-end: 5;
+}
+
+.rufian3 {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.rufian4 {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.rufian5 {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.rufian6 {
+    border-left: 1px solid black;
+    border-right: 2px solid black;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.cabecera:nth-child(1) {
+    border: 2px solid black;
+    border-right: 1px solid black;
+    text-align: center;
+}
+
+.cabecera:nth-child(2) {
+    border: 2px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    text-align: left;
+    padding-left: 5px;
+    grid-column-start: 2;
+    grid-column-end: 5;
+}
+
+.cabecera:nth-child(3) {
+    border: 2px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    text-align: center;
+}
+
+.cabecera:nth-child(4) {
+    border: 2px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    text-align: center;
+}
+
+.cabecera:nth-child(5) {
+    border: 2px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    text-align: center;
+}
+
+.cabecera:nth-child(6) {
+    border: 2px solid black;
+    border-left: 1px solid black;
+    text-align: center;
+}
+
+.footer1:nth-child(1) {
+    border: 2px solid black;
+    border-right: 1px solid black;
+    text-align: right;
+    grid-column-start: 1;
+    grid-column-end: 6;
+    padding-right: 5px;
+}
+
+.footer1:nth-child(2) {
+    border: 2px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    text-align: left;
+    padding-left: 5px;
+}
+
+.footer1:nth-child(3) {
+    border: 2px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    text-align: center;
+}
+
+.footer1:nth-child(4) {
+    border: 2px solid black;
+    border-left: 1px solid black;
+    text-align: center;
+}
+
+.footer1-text {
+    text-align: right;
+    padding-right: 5px;
+}
+
+.footer2:nth-child(1) {
+    border: 2px solid black;
+    border-right: 1px solid black;
+    text-align: right;
+    grid-column-start: 1;
+    grid-column-end: 7;
+    padding-right: 5px;
+    border-top: none;
+}
+
+.footer2:nth-child(2) {
+    border: 2px solid black;
+    border-left: 1px solid black;
+    border-top: none;
+    text-align: center;
+}
+
+.footer2:nth-child(3) {
+    border: 2px solid black;
+    border-left: 1px solid black;
+    border-top: none;
+    text-align: center;
+}
+
+.footer2-text {
+    text-align: right;
+    padding-right: 5px;
+}
